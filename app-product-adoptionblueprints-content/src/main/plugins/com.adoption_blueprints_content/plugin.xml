@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin
+	version="${plugin.version}"
+	id="${plugin.dir}"
+	name="${plugin.name}"
+	licensable="${plugin.licensable}"
+	license_model="app_use"
+	scope_name="${plugin.scope_name}"
+	scope_sys_id="${plugin.scope_sys_id}"
+	state="published"
+	provider_name="ServiceNow"
+	type="application">
+	<description>${plugin.description}</description>
+</plugin>

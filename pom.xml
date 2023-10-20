@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.snc</groupId>
+	<artifactId>product-adoption-content-demo</artifactId>
+	<name>Product adoption content demo</name>
+	<version>1.0.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<modules>
+        <module>app-product-adoption-content-parent</module>
+    </modules>
+
+	<!-- Maven release plugin needs to know where to find the source code repository -->
+	<!-- <scm>
+		<connection>scm:git:ssh://code.devsnc.com/dev/app-devops.git</connection>
+		<developerConnection>scm:git:ssh://code.devsnc.com/dev/app-devops.git</developerConnection>
+		<url>https://code.devsnc.com/dev/app-devops.git</url>
+	  <tag>release/app-devops-2.0.0-rc.1</tag>
+  </scm> -->
+
+</project>
