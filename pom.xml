@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.snc</groupId>
-	<artifactId>product-adoption-content-demo</artifactId>
+	<artifactId>app-product-adoption-content-demo</artifactId>
 	<name>Product adoption content demo</name>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
